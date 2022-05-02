@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <item>
+    <id><![CDATA[11dc680240b04f469ccba354cbf0b967]]></id>
+    <parent_id><![CDATA[]]></parent_id>
+    <product_number><![CDATA[test_SWDEMO10002]]></product_number>
+    <active>1</active>
+    <stock>10</stock>
+    <name><![CDATA[Main product with advanced prices]]></name>
+    <description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></description>
+    <price_net>798.32</price_net>
+    <price_gross>950</price_gross>
+    <list_prices_net><![CDATA[]]></list_prices_net>
+    <list_prices_gross><![CDATA[]]></list_prices_gross>
+    <purchase_prices_net>798.32</purchase_prices_net>
+    <purchase_prices_gross>950</purchase_prices_gross>
+    <tax_id><![CDATA[877c0028c5724933bcbc7fdcc8cb01ad]]></tax_id>
+    <tax_rate>19</tax_rate>
+    <tax_name><![CDATA[Standard rate]]></tax_name>
+    <cover_media_url><![CDATA[]]></cover_media_url>
+    <keywords><![CDATA[]]></keywords>
+    <meta_title><![CDATA[]]></meta_title>
+    <meta_description><![CDATA[]]></meta_description>
+    <media><![CDATA[]]></media>
+    <manufacturer_id><![CDATA[cc1c20c365d34cfb88bfab3c3e81d350]]></manufacturer_id>
+    <manufacturer_name><![CDATA[Shopware Freetime]]></manufacturer_name>
+    <categories_all_paths><![CDATA[MTest1#.Test1|MTest4#/Test4|MTest3#/Test3|MTest2#/Test2|Catalogue #1/Free time & electronics]]></categories_all_paths>
+    <sales_channel><![CDATA[98432def39fc4624b33213a56b8c944d|3123b7e626a149de9705a8a7e0a1aec9]]></sales_channel>
+    <sales_channel_names><![CDATA[Headless|Storefront]]></sales_channel_names>
+    <width>590</width>
+    <height>600</height>
+    <length>840</length>
+    <weight>45</weight>
+    <ean><![CDATA[123123123123123123123]]></ean>
+    <releaseDate><![CDATA[2021-09-09T16:06:06.664+00:00]]></releaseDate>
+    <delivery_time_name><![CDATA[]]></delivery_time_name>
+    <delivery_time_min><![CDATA[]]></delivery_time_min>
+    <delivery_time_max><![CDATA[]]></delivery_time_max>
+    <delivery_time_unit><![CDATA[]]></delivery_time_unit>
+    <delivery_time_id><![CDATA[]]></delivery_time_id>
+    <manufacturerNumber><![CDATA[Shopware Freetime]]></manufacturerNumber>
+    <optionIds><![CDATA[]]></optionIds>
+    <options><![CDATA[]]></options>
+    <shipping_free>0</shipping_free>
+    <is_closeout>0</is_closeout>
+    <properties>
+      <property name="width" id="10d4ec367e8241bd9df70f1eeb013965"><![CDATA[]]></property>
+      <property name="Target group" id="1857bb30fe6448c88f8ad331cf6dfa0c"><![CDATA[]]></property>
+      <property name="Variant" id="1a5dc1adb2a34fd08c3e02c9ca4d6717"><![CDATA[]]></property>
+      <property name="Colour" id="269c7e40a54a462e884edb004c5f7bc8"><![CDATA[]]></property>
+      <property name="Verschijningsvorm Categorie" id="330efe7920d140d58415c3c5d86b86cf"><![CDATA[]]></property>
+      <property name="length" id="3a6334619c8944f98bbe7b26e7f34579"><![CDATA[]]></property>
+      <property name="Size" id="3cb17d35b6f24446af569bb12278a51e"><![CDATA[]]></property>
+      <property name="Ingredients" id="448f3d72803f4ac8afc0c1108739ddf4"><![CDATA[]]></property>
+      <property name="color" id="4c26ecd35b704254a31a92cb29fac6cf"><![CDATA[]]></property>
+      <property name="shirt-size" id="512465f1e33649febacf358bd5c6460c"><![CDATA[]]></property>
+      <property name="shoe-size" id="654ca5387fe64b07aab27c25052291b7"><![CDATA[]]></property>
+      <property name="Size" id="75f353b589d04bf48e8a9ab1f5422b0e"><![CDATA[]]></property>
+      <property name="Material" id="a67cdd9627cb488bb4cd91f3e8d66e32"><![CDATA[]]></property>
+      <property name="Colour" id="aa2df679a2994edb877375c91a89fd00"><![CDATA[]]></property>
+      <property name="translations.DEFAULT.customFields" id="bf975c03fe394455a4fa7bbdb074f013"><![CDATA[]]></property>
+      <property name="shirt-color" id="d25b3b76f7524b47a30db6a357607596"><![CDATA[]]></property>
+      <property name="Test" id="f26b056bc4be4098aa7148cf97d317e0"><![CDATA[]]></property>
+    </properties>
+  </item>
+  <item>
+    <id><![CDATA[2a88d9b59d474c7e869d8071649be43c]]></id>
+    <parent_id><![CDATA[]]></parent_id>
+    <product_number><![CDATA[SWDEMO10001]]></product_number>
+    <active>1</active>
+    <stock>100</stock>
+    <name><![CDATA[Main product]]></name>
+    <description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></description>
+    <price_net>416.76</price_net>
+    <price_gross>495.95</price_gross>
+    <list_prices_net><![CDATA[]]></list_prices_net>
+    <list_prices_gross><![CDATA[]]></list_prices_gross>
+    <purchase_prices_net>416.76</purchase_prices_net>
+    <purchase_prices_gross>495.95</purchase_prices_gross>
+    <tax_id><![CDATA[877c0028c5724933bcbc7fdcc8cb01ad]]></tax_id>
+    <tax_rate>19</tax_rate>
+    <tax_name><![CDATA[Standard rate]]></tax_name>
+    <cover_media_url><![CDATA[]]></cover_media_url>
+    <keywords><![CDATA[]]></keywords>
+    <meta_title><![CDATA[]]></meta_title>
+    <meta_description><![CDATA[]]></meta_description>
+    <media><![CDATA[]]></media>
+    <manufacturer_id><![CDATA[7f24e96676e944b0a0addc20d56728cb]]></manufacturer_id>
+    <manufacturer_name><![CDATA[Shopware Fashion]]></manufacturer_name>
+    <categories_all_paths><![CDATA[Catalogue #1/Free time & electronics]]></categories_all_paths>
+    <sales_channel><![CDATA[3123b7e626a149de9705a8a7e0a1aec9]]></sales_channel>
+    <sales_channel_names><![CDATA[Storefront]]></sales_channel_names>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+    <length><![CDATA[]]></length>
+    <weight>0.17</weight>
+    <ean><![CDATA[]]></ean>
+    <releaseDate><![CDATA[2021-09-09T16:06:06.669+00:00]]></releaseDate>
+    <delivery_time_name><![CDATA[]]></delivery_time_name>
+    <delivery_time_min><![CDATA[]]></delivery_time_min>
+    <delivery_time_max><![CDATA[]]></delivery_time_max>
+    <delivery_time_unit><![CDATA[]]></delivery_time_unit>
+    <delivery_time_id><![CDATA[]]></delivery_time_id>
+    <manufacturerNumber><![CDATA[Shopware Fashion]]></manufacturerNumber>
+    <optionIds><![CDATA[]]></optionIds>
+    <options><![CDATA[]]></options>
+    <shipping_free>0</shipping_free>
+    <is_closeout>0</is_closeout>
+    <properties>
+      <property name="width" id="10d4ec367e8241bd9df70f1eeb013965"><![CDATA[]]></property>
+      <property name="Target group" id="1857bb30fe6448c88f8ad331cf6dfa0c"><![CDATA[]]></property>
+      <property name="Variant" id="1a5dc1adb2a34fd08c3e02c9ca4d6717"><![CDATA[]]></property>
+      <property name="Colour" id="269c7e40a54a462e884edb004c5f7bc8"><![CDATA[]]></property>
+      <property name="Verschijningsvorm Categorie" id="330efe7920d140d58415c3c5d86b86cf"><![CDATA[]]></property>
+      <property name="length" id="3a6334619c8944f98bbe7b26e7f34579"><![CDATA[]]></property>
+      <property name="Size" id="3cb17d35b6f24446af569bb12278a51e"><![CDATA[]]></property>
+      <property name="Ingredients" id="448f3d72803f4ac8afc0c1108739ddf4"><![CDATA[]]></property>
+      <property name="color" id="4c26ecd35b704254a31a92cb29fac6cf"><![CDATA[]]></property>
+      <property name="shirt-size" id="512465f1e33649febacf358bd5c6460c"><![CDATA[]]></property>
+      <property name="shoe-size" id="654ca5387fe64b07aab27c25052291b7"><![CDATA[]]></property>
+      <property name="Size" id="75f353b589d04bf48e8a9ab1f5422b0e"><![CDATA[]]></property>
+      <property name="Material" id="a67cdd9627cb488bb4cd91f3e8d66e32"><![CDATA[]]></property>
+      <property name="Colour" id="aa2df679a2994edb877375c91a89fd00"><![CDATA[]]></property>
+      <property name="translations.DEFAULT.customFields" id="bf975c03fe394455a4fa7bbdb074f013"><![CDATA[]]></property>
+      <property name="shirt-color" id="d25b3b76f7524b47a30db6a357607596"><![CDATA[]]></property>
+      <property name="Test" id="f26b056bc4be4098aa7148cf97d317e0"><![CDATA[]]></property>
+    </properties>
+  </item>
+  <item>
+    <id><![CDATA[3ac014f329884b57a2cce5a29f34779c]]></id>
+    <parent_id><![CDATA[]]></parent_id>
+    <product_number><![CDATA[SWDEMO10006]]></product_number>
+    <active>1</active>
+    <stock>50</stock>
+    <name><![CDATA[Main product, free shipping with highlighting]]></name>
+    <description><![CDATA[Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.]]></description>
+    <price_net>15</price_net>
+    <price_gross>20</price_gross>
+    <list_prices_net><![CDATA[]]></list_prices_net>
+    <list_prices_gross><![CDATA[]]></list_prices_gross>
+    <purchase_prices_net>15</purchase_prices_net>
+    <purchase_prices_gross>20</purchase_prices_gross>
+    <tax_id><![CDATA[877c0028c5724933bcbc7fdcc8cb01ad]]></tax_id>
+    <tax_rate>19</tax_rate>
+    <tax_name><![CDATA[Standard rate]]></tax_name>
+    <cover_media_url><![CDATA[]]></cover_media_url>
+    <keywords><![CDATA[]]></keywords>
+    <meta_title><![CDATA[]]></meta_title>
+    <meta_description><![CDATA[]]></meta_description>
+    <media><![CDATA[]]></media>
+    <manufacturer_id><![CDATA[cc1c20c365d34cfb88bfab3c3e81d350]]></manufacturer_id>
+    <manufacturer_name><![CDATA[Shopware Freetime]]></manufacturer_name>
+    <categories_all_paths><![CDATA[Catalogue #6/Free time & electronics|Catalogue #1/Free time & electronics|Catalogue #1/Clothing/Men|Catalogue #6/Clothing/Men]]></categories_all_paths>
+    <sales_channel><![CDATA[98432def39fc4624b33213a56b8c944d|3123b7e626a149de9705a8a7e0a1aec9]]></sales_channel>
+    <sales_channel_names><![CDATA[Headless|Storefront]]></sales_channel_names>
+    <width><![CDATA[]]></width>
+    <height><![CDATA[]]></height>
+    <length><![CDATA[]]></length>
+    <weight>0.15</weight>
+    <ean><![CDATA[]]></ean>
+    <releaseDate><![CDATA[2021-09-09T16:06:06.671+00:00]]></releaseDate>
+    <delivery_time_name><![CDATA[]]></delivery_time_name>
+    <delivery_time_min><![CDATA[]]></delivery_time_min>
+    <delivery_time_max><![CDATA[]]></delivery_time_max>
+    <delivery_time_unit><![CDATA[]]></delivery_time_unit>
+    <delivery_time_id><![CDATA[]]></delivery_time_id>
+    <manufacturerNumber><![CDATA[Shopware Freetime]]></manufacturerNumber>
+    <optionIds><![CDATA[]]></optionIds>
+    <options><![CDATA[]]></options>
+    <shipping_free>1</shipping_free>
+    <is_closeout>0</is_closeout>
+    <properties>
+      <property name="width" id="10d4ec367e8241bd9df70f1eeb013965"><![CDATA[]]></property>
+      <property name="Target group" id="1857bb30fe6448c88f8ad331cf6dfa0c"><![CDATA[]]></property>
+      <property name="Variant" id="1a5dc1adb2a34fd08c3e02c9ca4d6717"><![CDATA[]]></property>
+      <property name="Colour" id="269c7e40a54a462e884edb004c5f7bc8"><![CDATA[]]></property>
+      <property name="Verschijningsvorm Categorie" id="330efe7920d140d58415c3c5d86b86cf"><![CDATA[]]></property>
+      <property name="length" id="3a6334619c8944f98bbe7b26e7f34579"><![CDATA[]]></property>
+      <property name="Size" id="3cb17d35b6f24446af569bb12278a51e"><![CDATA[]]></property>
+      <property name="Ingredients" id="448f3d72803f4ac8afc0c1108739ddf4"><![CDATA[]]></property>
+      <property name="color" id="4c26ecd35b704254a31a92cb29fac6cf"><![CDATA[]]></property>
+      <property name="shirt-size" id="512465f1e33649febacf358bd5c6460c"><![CDATA[]]></property>
+      <property name="shoe-size" id="654ca5387fe64b07aab27c25052291b7"><![CDATA[]]></property>
+      <property name="Size" id="75f353b589d04bf48e8a9ab1f5422b0e"><![CDATA[]]></property>
+      <property name="Material" id="a67cdd9627cb488bb4cd91f3e8d66e32"><![CDATA[]]></property>
+      <property name="Colour" id="aa2df679a2994edb877375c91a89fd00"><![CDATA[]]></property>
+      <property name="translations.DEFAULT.customFields" id="bf975c03fe394455a4fa7bbdb074f013"><![CDATA[]]></property>
+      <property name="shirt-color" id="d25b3b76f7524b47a30db6a357607596"><![CDATA[]]></property>
+      <property name="Test" id="f26b056bc4be4098aa7148cf97d317e0"><![CDATA[]]></property>
+    </properties>
+  </item>
+</list>

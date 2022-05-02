@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <item>
+    <orderNumber><![CDATA[10000]]></orderNumber>
+    <orderStatus><![CDATA[open]]></orderStatus>
+    <deliveryStatus><![CDATA[open]]></deliveryStatus>
+    <paymentStatus><![CDATA[open]]></paymentStatus>
+    <amountTotal>532.75</amountTotal>
+    <amountNet>532.75</amountNet>
+    <shippingTotal>0</shippingTotal>
+    <currency><![CDATA[EUR]]></currency>
+    <salesChannel><![CDATA[Storefront]]></salesChannel>
+    <language><![CDATA[English]]></language>
+    <paymentMethodName><![CDATA[Paid in advance]]></paymentMethodName>
+    <paymentMethodId><![CDATA[163749ef32df4ae8837c7010ed8c294f]]></paymentMethodId>
+    <shippingMethodName><![CDATA[Standard]]></shippingMethodName>
+    <shippingMethodId><![CDATA[4fc89006fed04c34a9daea09dadb3d1a]]></shippingMethodId>
+    <shippingDateEarliest><![CDATA[2022-03-19T00:00:00.000+00:00]]></shippingDateEarliest>
+    <shippingDateLatest><![CDATA[2022-03-21T00:00:00.000+00:00]]></shippingDateLatest>
+    <shippingAddressFirstName><![CDATA[AA§]]></shippingAddressFirstName>
+    <shippingAddressLastName><![CDATA[John]]></shippingAddressLastName>
+    <shippingAddressStreet><![CDATA[9th str]]></shippingAddressStreet>
+    <shippingAddressZipcode><![CDATA[445057]]></shippingAddressZipcode>
+    <shippingAddressCity><![CDATA[Manhattan]]></shippingAddressCity>
+    <shippingAddressCompany><![CDATA[]]></shippingAddressCompany>
+    <shippingAddressDepartment><![CDATA[]]></shippingAddressDepartment>
+    <shippingAddressPhoneNumber><![CDATA[]]></shippingAddressPhoneNumber>
+    <billingAddressFirstName><![CDATA[VVV]]></billingAddressFirstName>
+    <billingAddressLastName><![CDATA[SSS]]></billingAddressLastName>
+    <billingAddressStreet><![CDATA[9th str]]></billingAddressStreet>
+    <billingAddressZipcode><![CDATA[445057]]></billingAddressZipcode>
+    <billingAddressCity><![CDATA[Manhattan]]></billingAddressCity>
+    <billingAddressCompany><![CDATA[]]></billingAddressCompany>
+    <billingAddressDepartment><![CDATA[]]></billingAddressDepartment>
+    <billingAddressPhoneNumber><![CDATA[]]></billingAddressPhoneNumber>
+    <email><![CDATA[john@example.com]]></email>
+    <customerNumber><![CDATA[10000]]></customerNumber>
+    <createdAt><![CDATA[2022-03-18T09:36:19.730+00:00]]></createdAt>
+    <updatedAt><![CDATA[]]></updatedAt>
+    <lineItems>
+      <orderItem>
+        <id><![CDATA[2b2ad80ce6ef40c9b1be4994608bb4a1]]></id>
+        <label><![CDATA[Enormous Iron Tropicava]]></label>
+        <productId><![CDATA[]]></productId>
+        <price>532.75</price>
+        <quantity>1</quantity>
+        <totalPrice>532.75</totalPrice>
+        <vat>0</vat>
+      </orderItem>
+    </lineItems>
+  </item>
+  <item>
+    <orderNumber><![CDATA[10001]]></orderNumber>
+    <orderStatus><![CDATA[open]]></orderStatus>
+    <deliveryStatus><![CDATA[open]]></deliveryStatus>
+    <paymentStatus><![CDATA[open]]></paymentStatus>
+    <amountTotal>155</amountTotal>
+    <amountNet>130.25</amountNet>
+    <shippingTotal>0</shippingTotal>
+    <currency><![CDATA[EUR]]></currency>
+    <salesChannel><![CDATA[Storefront]]></salesChannel>
+    <language><![CDATA[English]]></language>
+    <paymentMethodName><![CDATA[Cash on delivery]]></paymentMethodName>
+    <paymentMethodId><![CDATA[1fbee5a467564957aa976e67e35398a7]]></paymentMethodId>
+    <shippingMethodName><![CDATA[Standard]]></shippingMethodName>
+    <shippingMethodId><![CDATA[4fc89006fed04c34a9daea09dadb3d1a]]></shippingMethodId>
+    <shippingDateEarliest><![CDATA[2022-04-12T00:00:00.000+00:00]]></shippingDateEarliest>
+    <shippingDateLatest><![CDATA[2022-04-14T00:00:00.000+00:00]]></shippingDateLatest>
+    <shippingAddressFirstName><![CDATA[Test]]></shippingAddressFirstName>
+    <shippingAddressLastName><![CDATA[Test]]></shippingAddressLastName>
+    <shippingAddressStreet><![CDATA[street]]></shippingAddressStreet>
+    <shippingAddressZipcode><![CDATA[12888]]></shippingAddressZipcode>
+    <shippingAddressCity><![CDATA[City]]></shippingAddressCity>
+    <shippingAddressCompany><![CDATA[]]></shippingAddressCompany>
+    <shippingAddressDepartment><![CDATA[]]></shippingAddressDepartment>
+    <shippingAddressPhoneNumber><![CDATA[]]></shippingAddressPhoneNumber>
+    <billingAddressFirstName><![CDATA[Test]]></billingAddressFirstName>
+    <billingAddressLastName><![CDATA[Test]]></billingAddressLastName>
+    <billingAddressStreet><![CDATA[street]]></billingAddressStreet>
+    <billingAddressZipcode><![CDATA[12888]]></billingAddressZipcode>
+    <billingAddressCity><![CDATA[City]]></billingAddressCity>
+    <billingAddressCompany><![CDATA[]]></billingAddressCompany>
+    <billingAddressDepartment><![CDATA[]]></billingAddressDepartment>
+    <billingAddressPhoneNumber><![CDATA[]]></billingAddressPhoneNumber>
+    <email><![CDATA[test@mail.com]]></email>
+    <customerNumber><![CDATA[10001]]></customerNumber>
+    <createdAt><![CDATA[2022-04-11T13:58:09.953+00:00]]></createdAt>
+    <updatedAt><![CDATA[]]></updatedAt>
+    <lineItems>
+      <orderItem>
+        <id><![CDATA[760994cf48a3463e8c27c84e24423d0c]]></id>
+        <label><![CDATA[Test Product QA 2]]></label>
+        <productId><![CDATA[]]></productId>
+        <price>155</price>
+        <quantity>1</quantity>
+        <totalPrice>155</totalPrice>
+        <vat>19</vat>
+      </orderItem>
+    </lineItems>
+  </item>
+  <item>
+    <orderNumber><![CDATA[10002]]></orderNumber>
+    <orderStatus><![CDATA[in_progress]]></orderStatus>
+    <deliveryStatus><![CDATA[shipped]]></deliveryStatus>
+    <paymentStatus><![CDATA[in_progress]]></paymentStatus>
+    <amountTotal>15500</amountTotal>
+    <amountNet>14485.98</amountNet>
+    <shippingTotal>0</shippingTotal>
+    <currency><![CDATA[EUR]]></currency>
+    <salesChannel><![CDATA[Storefront]]></salesChannel>
+    <language><![CDATA[English]]></language>
+    <paymentMethodName><![CDATA[Cash on delivery]]></paymentMethodName>
+    <paymentMethodId><![CDATA[1fbee5a467564957aa976e67e35398a7]]></paymentMethodId>
+    <shippingMethodName><![CDATA[Standard]]></shippingMethodName>
+    <shippingMethodId><![CDATA[4fc89006fed04c34a9daea09dadb3d1a]]></shippingMethodId>
+    <shippingDateEarliest><![CDATA[2022-04-12T00:00:00.000+00:00]]></shippingDateEarliest>
+    <shippingDateLatest><![CDATA[2022-04-14T00:00:00.000+00:00]]></shippingDateLatest>
+    <shippingAddressFirstName><![CDATA[Test First Name]]></shippingAddressFirstName>
+    <shippingAddressLastName><![CDATA[Test Last Name]]></shippingAddressLastName>
+    <shippingAddressStreet><![CDATA[street]]></shippingAddressStreet>
+    <shippingAddressZipcode><![CDATA[12888]]></shippingAddressZipcode>
+    <shippingAddressCity><![CDATA[City]]></shippingAddressCity>
+    <shippingAddressCompany><![CDATA[New]]></shippingAddressCompany>
+    <shippingAddressDepartment><![CDATA[Test Department]]></shippingAddressDepartment>
+    <shippingAddressPhoneNumber><![CDATA[76543]]></shippingAddressPhoneNumber>
+    <billingAddressFirstName><![CDATA[Test First Name]]></billingAddressFirstName>
+    <billingAddressLastName><![CDATA[Test Last Name]]></billingAddressLastName>
+    <billingAddressStreet><![CDATA[street]]></billingAddressStreet>
+    <billingAddressZipcode><![CDATA[12888]]></billingAddressZipcode>
+    <billingAddressCity><![CDATA[City]]></billingAddressCity>
+    <billingAddressCompany><![CDATA[New]]></billingAddressCompany>
+    <billingAddressDepartment><![CDATA[Test Department]]></billingAddressDepartment>
+    <billingAddressPhoneNumber><![CDATA[76543]]></billingAddressPhoneNumber>
+    <email><![CDATA[test@mail.com]]></email>
+    <customerNumber><![CDATA[10001]]></customerNumber>
+    <createdAt><![CDATA[2022-04-11T14:40:08.883+00:00]]></createdAt>
+    <updatedAt><![CDATA[2022-04-13T08:45:49.972+00:00]]></updatedAt>
+    <lineItems>
+      <orderItem>
+        <id><![CDATA[39b226ee9e4b434586137321b6029e2c]]></id>
+        <label><![CDATA[Test Product QA 1]]></label>
+        <productId><![CDATA[]]></productId>
+        <price>155</price>
+        <quantity>100</quantity>
+        <totalPrice>15500</totalPrice>
+        <vat>7</vat>
+      </orderItem>
+    </lineItems>
+  </item>
+  <item>
+    <orderNumber><![CDATA[10003]]></orderNumber>
+    <orderStatus><![CDATA[open]]></orderStatus>
+    <deliveryStatus><![CDATA[open]]></deliveryStatus>
+    <paymentStatus><![CDATA[open]]></paymentStatus>
+    <amountTotal>991.9</amountTotal>
+    <amountNet>833.53</amountNet>
+    <shippingTotal>0</shippingTotal>
+    <currency><![CDATA[EUR]]></currency>
+    <salesChannel><![CDATA[Storefront]]></salesChannel>
+    <language><![CDATA[English]]></language>
+    <paymentMethodName><![CDATA[Cash on delivery]]></paymentMethodName>
+    <paymentMethodId><![CDATA[1fbee5a467564957aa976e67e35398a7]]></paymentMethodId>
+    <shippingMethodName><![CDATA[Standard]]></shippingMethodName>
+    <shippingMethodId><![CDATA[4fc89006fed04c34a9daea09dadb3d1a]]></shippingMethodId>
+    <shippingDateEarliest><![CDATA[2022-04-14T00:00:00.000+00:00]]></shippingDateEarliest>
+    <shippingDateLatest><![CDATA[2022-04-16T00:00:00.000+00:00]]></shippingDateLatest>
+    <shippingAddressFirstName><![CDATA[Test]]></shippingAddressFirstName>
+    <shippingAddressLastName><![CDATA[Test]]></shippingAddressLastName>
+    <shippingAddressStreet><![CDATA[street]]></shippingAddressStreet>
+    <shippingAddressZipcode><![CDATA[12888]]></shippingAddressZipcode>
+    <shippingAddressCity><![CDATA[City]]></shippingAddressCity>
+    <shippingAddressCompany><![CDATA[]]></shippingAddressCompany>
+    <shippingAddressDepartment><![CDATA[]]></shippingAddressDepartment>
+    <shippingAddressPhoneNumber><![CDATA[]]></shippingAddressPhoneNumber>
+    <billingAddressFirstName><![CDATA[Test]]></billingAddressFirstName>
+    <billingAddressLastName><![CDATA[Test]]></billingAddressLastName>
+    <billingAddressStreet><![CDATA[street]]></billingAddressStreet>
+    <billingAddressZipcode><![CDATA[12888]]></billingAddressZipcode>
+    <billingAddressCity><![CDATA[City]]></billingAddressCity>
+    <billingAddressCompany><![CDATA[]]></billingAddressCompany>
+    <billingAddressDepartment><![CDATA[]]></billingAddressDepartment>
+    <billingAddressPhoneNumber><![CDATA[]]></billingAddressPhoneNumber>
+    <email><![CDATA[test@mail.com]]></email>
+    <customerNumber><![CDATA[10001]]></customerNumber>
+    <createdAt><![CDATA[2022-04-13T09:55:32.951+00:00]]></createdAt>
+    <updatedAt><![CDATA[]]></updatedAt>
+    <lineItems>
+      <orderItem>
+        <id><![CDATA[5f621e3f90e6479fadf3d4b081aa990e]]></id>
+        <label><![CDATA[Main product]]></label>
+        <productId><![CDATA[2a88d9b59d474c7e869d8071649be43c]]></productId>
+        <price>495.95</price>
+        <quantity>2</quantity>
+        <totalPrice>991.9</totalPrice>
+        <vat>19</vat>
+      </orderItem>
+    </lineItems>
+  </item>
+</list>
