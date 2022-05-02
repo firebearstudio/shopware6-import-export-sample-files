@@ -1,6 +1,6 @@
 # Shopware 6 import / export sample files
 
-<p>In this repository we have gathered all sample files for Shopware 6 import and export procedures. Every file has been tested with the Shopware 6 store the latest release of <b><a href="https://store.shopware.com/en/fireb81914862032m/improved-import-export-mass-actions.html">Improved Import, Export & Mass Actions app</a></b> developed by <a href="https://firebearstudio.com/" target="_blank"><b>Firebear Studio GmbH></b></a>.</p>
+<p>In this repository we have gathered all sample files for Shopware 6 import and export procedures. Every file has been tested with the Shopware 6 store the latest release of <b><a href="https://store.shopware.com/en/fireb81914862032m/improved-import-export-mass-actions.html">Improved Import, Export & Mass Actions app</a></b> developed by <a href="https://firebearstudio.com/" target="_blank"><b>Firebear Studio GmbH</b></a>.</p>
 <p align="center" />If you are new to the import process - start by reading <b><a href="https://firebearstudio.atlassian.net/wiki/spaces/FSPD/pages/1506574348/User+manual">FireBear Studio Shopware 6 Improved Import app user guide</a></b>.</p>
 <p>The latest release of Improved Import, Export & Mass Actions application on April 18th added the support of:</p
 <ul>
